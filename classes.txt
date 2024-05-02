@@ -1,0 +1,1 @@
+["stapler", "cans", "apple", "box", "notebook", "cup", "headset", "screwdriver", "pen", "wrist developer", "bottle", "toothbrush", "toothpaste", "tape", "wrench", "knife", "pliers", "badminton", "towel", "mouse", "mobile phone", "umbrella", "wallet", "remote controller", "banana", "paper", "charger", "glasses", "shaver", "card", "watch"]
